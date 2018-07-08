@@ -10,8 +10,11 @@
   "dependencies": {
     "gatsby": "^1.9.250",
     "gatsby-link": "^1.6.40",
+    "gatsby-plugin-glamor": "^1.6.13",
     "gatsby-plugin-typography": "^1.7.19",
     "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-remark": "^1.7.44",
+    "glamorous": "^4.13.1",
     "typography-theme-fairy-gates": "^0.15.11",
     "typography-theme-lawton": "^0.15.10"
   }
